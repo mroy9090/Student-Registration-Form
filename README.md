@@ -24,5 +24,7 @@ A responsive Student Registration Form that uses **AJAX-style JavaScript** to si
 
 ---
 
-## 📁 Project Structure
+## 📁 Live Project
+
+https://mroy9090.github.io/Student-Registration-Form/
 
